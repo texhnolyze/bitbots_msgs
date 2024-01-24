@@ -39,6 +39,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/RobotRelativeArray.msg"
   "msg/Strategy.msg"
   "msg/TeamData.msg"
+  "msg/Utility.msg"
   "msg/Workload.msg"
   "srv/AccelerometerCalibration.srv"
   "srv/ComplementaryFilterParams.srv"
